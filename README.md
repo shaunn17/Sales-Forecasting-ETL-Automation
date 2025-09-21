@@ -1,7 +1,5 @@
 # Sales Forecasting with Predictive Modeling
 
-A comprehensive data science project for sales forecasting using multiple predictive modeling techniques, designed for portfolio demonstration.
-
 ## 🎯 Project Overview
 
 This project demonstrates end-to-end sales forecasting capabilities including:
