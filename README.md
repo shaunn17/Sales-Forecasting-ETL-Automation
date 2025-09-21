@@ -134,13 +134,6 @@ The project generates:
 3. **03_modeling.ipynb**: Model training, evaluation, and comparison
 4. **04_forecast_export.ipynb**: Forecast generation and export for BI
 
-## 🎯 Business Applications
-
-This project demonstrates skills relevant for:
-- Data Science roles
-- Business Intelligence positions
-- Forecasting and planning teams
-- Analytics consulting
 
 ## 📊 Sample Insights
 
@@ -152,7 +145,7 @@ This project demonstrates skills relevant for:
 
 ## 🤝 Contributing
 
-This is a portfolio project. Feel free to fork and modify for your own use.
+Feel free to fork and modify for your own use.
 
 ## 📄 License
 
